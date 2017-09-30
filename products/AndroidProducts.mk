@@ -15,6 +15,7 @@
 
 # CAF
     PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/mido/pa_mido.mk \
     $(LOCAL_DIR)/bacon/pa_bacon.mk \
     $(LOCAL_DIR)/gemini/pa_gemini.mk \
     $(LOCAL_DIR)/oneplus2/pa_oneplus2.mk \
